@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\Sharp7Library\bin\Debug\Sharp7Library.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\Sharp7Library\bin\Debug\Sharp7Library.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\Sharp7Library\obj\Debug\Sharp7Library.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\Sharp7Library\obj\Debug\Sharp7Library.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\Sharp7Library\obj\Debug\Sharp7Library.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\Sharp7Library\bin\Debug\Sharp7Library.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\Sharp7Library\bin\Debug\Sharp7Library.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\Sharp7Library\obj\Debug\Sharp7Library.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\Sharp7Library\obj\Debug\Sharp7Library.pdb
+C:\Users\artga\source\repos\logo-client\Sharp7Library\bin\Debug\Sharp7Library.dll
+C:\Users\artga\source\repos\logo-client\Sharp7Library\bin\Debug\Sharp7Library.pdb
+C:\Users\artga\source\repos\logo-client\Sharp7Library\obj\Debug\Sharp7Library.csproj.AssemblyReference.cache
+C:\Users\artga\source\repos\logo-client\Sharp7Library\obj\Debug\Sharp7Library.csproj.CoreCompileInputs.cache
+C:\Users\artga\source\repos\logo-client\Sharp7Library\obj\Debug\Sharp7Library.dll
+C:\Users\artga\source\repos\logo-client\Sharp7Library\obj\Debug\Sharp7Library.pdb

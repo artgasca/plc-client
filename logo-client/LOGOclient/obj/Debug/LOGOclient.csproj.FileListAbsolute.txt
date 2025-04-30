@@ -1,0 +1,38 @@
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\bin\Debug\LOGOclient.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\bin\Debug\LOGOclient.exe
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\bin\Debug\LOGOclient.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\obj\Debug\LOGOclient.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\obj\Debug\LOGOclient.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\obj\Debug\LOGOclient.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\obj\Debug\LOGOclient.exe
+c:\users\usuario\documents\visual studio 2015\Projects\LOGOclient\LOGOclient\obj\Debug\LOGOclient.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\LOGOclient\bin\Debug\Sharp7Library.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\LOGOclient\bin\Debug\Sharp7Library.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\LOGOclient\LOGOclient\obj\Debug\LOGOclient.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client-s7\LOGOclient\bin\Debug\LOGOclient.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client-s7\LOGOclient\obj\Debug\LOGOclient.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client-s7\LOGOclient\obj\Debug\LOGOclient.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\bin\Debug\LOGOclient.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\obj\Debug\LOGOclient.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\obj\Debug\LOGOclient.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\bin\Debug\LOGOclient.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\bin\Debug\LOGOclient.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\bin\Debug\Sharp7Library.dll
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\bin\Debug\Sharp7Library.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\obj\Debug\LOGOclient.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\obj\Debug\LOGOclient.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\obj\Debug\LOGOclient.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\logo-client\LOGOclient\obj\Debug\LOGOclient.csproj.GenerateResource.Cache
+C:\Users\artga\source\repos\logo-client\LOGOclient\bin\Debug\LOGOclient.exe.config
+C:\Users\artga\source\repos\logo-client\LOGOclient\bin\Debug\LOGOclient.exe
+C:\Users\artga\source\repos\logo-client\LOGOclient\bin\Debug\LOGOclient.pdb
+C:\Users\artga\source\repos\logo-client\LOGOclient\bin\Debug\Sharp7Library.dll
+C:\Users\artga\source\repos\logo-client\LOGOclient\bin\Debug\Sharp7Library.pdb
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.csproj.AssemblyReference.cache
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.Form1.resources
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.Properties.Resources.resources
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.csproj.GenerateResource.cache
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.csproj.CoreCompileInputs.cache
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.csproj.Up2Date
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.exe
+C:\Users\artga\source\repos\logo-client\LOGOclient\obj\Debug\LOGOclient.pdb
